@@ -33,6 +33,6 @@ For the [Gift Cards](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_revi
 
 ## Summary
 
-From this analysis, we can see that there are 0 (Zero) Vine (paid) reviews for the Gift Cards. Which gives us Zero 5-star reviews and a zero percentage of 5-star reviews from the total paid paid reviews. Out of the 355 Unpaid reviews, 90 are 5-star reviews, which gives us roughly 25.4% of the unpaid reviews being 5-star. It can be safely determined that there is no 'Positivity Bias' for this dataset because there are no paid reviews at all.
+From this analysis, we can see that there are 0 (Zero) Vine (paid) reviews for the Gift Cards. Which gives us Zero 5-star reviews and a zero percentage of 5-star reviews from the total paid reviews. Out of the 355 Unpaid reviews, 90 are 5-star reviews, which gives us roughly 25.4% of the unpaid reviews being 5-star. It can be safely determined that there is no 'Positivity Bias' for this dataset because there are no paid reviews at all.
 
 This dataset was not a good candidate to determine positivity bias, because there are no paid reviews. However, if this were a dataset that had paid reviews, an additional analysis could be to order reviews by date and focus on the most recent month of reviews. If there are very few unpaid reviews compared to paid ones, this may also suggest 'Positivity Bias'.
